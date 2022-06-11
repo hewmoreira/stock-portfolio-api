@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hewerton.moreira\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hewerton.moreira\\.nuget\\packages"
+    ]
+  }
+}
